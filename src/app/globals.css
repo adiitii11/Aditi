@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  color: #5a2d24;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 10px;
+}
+
+body {
+  background-color: #c8ad90;
+}
+
+.nav-parent {
+  position: fixed;
+  background-color: #c8ad90;
+  width: 100%;
+  z-index: 111;
+}
+
+nav {
+  width: calc(100% - 20px);
+  height: 60px;
+  box-shadow: -1px 0px 3px 0px;
+  margin: 10px;
+  border-radius: 20px;
+  margin-top: 10px;
+  background-color: #99594d;
+}
+
+.link {
+  margin: 10px;
+  font-size: 12px;
+  font-weight: bold;
+  color: rgb(211, 207, 207);
+}
+
+.link:hover {
+  color: white !important;
+}
+
+.small {
+  display: none;
+}
+
+.top {
+  display: none;
+}
+
+@media only screen and (max-width: 500px) {
+  .whole {
+    display: none;
+  }
+  .small {
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  .banner {
+    display: block !important;
+  }
+  .bottom {
+    display: none !important;
+  }
+  .about-banner {
+    margin-bottom: 35px;
+  }
+  .top {
+    display: flex;
+    margin-bottom: 35px;
+    margin-top: 24px;
+  }
+  .content-banner {
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 530px) {
+  .gallary {
+    display: block !important;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .project-grid {
+    display: block !important;
+  }
+  .project-card {
+    margin-bottom: 30px !important;
+  }
+}
+
+.banner {
+}
+
+.art-image {
+}
