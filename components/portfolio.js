@@ -97,7 +97,6 @@ export default function PortfolioBanner() {
                     Data Analyst Intern
                   </p>
                   <p style={{ marginTop: 5, marginBottom: 5 }}>
-                    ✅ Zopper (Data Analyst Intern)
 Built a forecasting model predicting 14,821 warranty claims (vs 15,000 actual) using PyTorch and Tableau, reducing claim TAT by 71% and enabling data-driven decisions that improved customer satisfaction.
                   </p>
                 </div>
