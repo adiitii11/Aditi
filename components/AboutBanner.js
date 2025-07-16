@@ -44,27 +44,15 @@ export default function AboutBanner() {
         </h1>
 
         <p style={{ marginTop: 20, textAlign: "left", marginBottom: 80 }}>
-          I am pursuing Mechanical Engineering as already told, however I am
-          passionate in a range of stuff, ranging from academics to art.
-          <br></br>
-          <br></br>I have been involved in programming for started and even
-          created a number of API's for various projects using my skills. Not
-          only this, I have even been working on a research paper on online
-          gaming.
-          <br></br>
-          <br></br>I have been involved in a number of Non-Tech activities as
-          well, such as I was a part of the Organising Team of my colleges
-          annual fest as a part of the Sponsorship Department, I really created
-          long lasting relationships with the brands I interacted with during
-          the same.
-          <br></br>
-          <br></br>
-          Coming to the real stuff, I love painting and dancing. Like these are
-          for me the best utilization of time and believe me you wouldn't want
-          to challenge me in any.
-          <br></br>
-          <br></br>
-          PS - I love brownie-ice-cream and chalks 😋
+         Hi, I’m Aditi Gupta, a B.Tech. student at NSUT Delhi, currently heading into my 7th semester in August 2025.
+<br></br><br></br>
+Though I come from a Mechanical Engineering background, I’ve always had a creative lens — I see shapes in numbers and stories in data. My journey into business and research began as early as Grade 11, when I won a national-level E-Summit, sparking my fascination with how the world works, the root of real-world problems, and ideating solutions that matter.
+<br></br><br></br>
+At NSUT, I wear many hats. I currently serve as the Director of Nalum, our university’s alumni platform, where I lead product and analytics strategy for 10K+ users. I’m also the Vice President at Enactus NSUT, where we build sustainable ventures for social impact, and previously led as the Head of Collaborations at Moksha-Innovision, managing ₹50L+ in sponsorships.
+<br></br><br></br>
+Beyond academics and leadership, I’m also a digital content creator, having collaborated with 50+ brands across lifestyle and fashion — blending storytelling with authenticity.
+<br></br><br></br>
+I'm passionate about data, design thinking, and driving initiatives that create meaningful change — whether through a dashboard, a social project, or a reel.
         </p>
       </div>
       {/* <div

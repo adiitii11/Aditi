@@ -91,14 +91,14 @@ export default function PortfolioBanner() {
               >
                 <div>
                   <p style={{ fontWeight: "bold", marginBottom: 10 }}>
-                    Americana Foods
+                    Zopper
                   </p>
                   <p style={{ marginTop: 5, marginBottom: 5, fontWeight: 500 }}>
-                    Technical Intern
+                    Data Analyst Intern
                   </p>
                   <p style={{ marginTop: 5, marginBottom: 5 }}>
-                    Creating an API for reducing thefts in the Americana chain
-                    restaurants via analysis of POS machines and Cameras.
+                    ✅ Zopper (Data Analyst Intern)
+Built a forecasting model predicting 14,821 warranty claims (vs 15,000 actual) using PyTorch and Tableau, reducing claim TAT by 71% and enabling data-driven decisions that improved customer satisfaction.
                   </p>
                 </div>
                 <div
@@ -118,14 +118,13 @@ export default function PortfolioBanner() {
               >
                 <div>
                   <p style={{ fontWeight: "bold", marginBottom: 10 }}>
-                    Gaming Research Paper
+                    Americana Foods
                   </p>
                   <p style={{ marginTop: 5, marginBottom: 5, fontWeight: 500 }}>
-                    Researcher
+                    Product Analyst Intern
                   </p>
                   <p style={{ marginTop: 5, marginBottom: 5 }}>
-                    Conducted paid research for Think Change Forum on Fair Play
-                    in Online Real Money Games in India.
+                   Uncovered a promo-code-based internal theft pattern across 150+ outlets by analyzing 75K+ sales rows and automating CCTV-log fraud detection — reducing manual review time by 80%
                   </p>
                 </div>
                 <div
@@ -171,13 +170,12 @@ export default function PortfolioBanner() {
                   }}
                 ></div>
                 <div>
-                  <p style={{ fontWeight: "bold", marginBottom: 10 }}>Nalum</p>
+                  <p style={{ fontWeight: "bold", marginBottom: 10 }}>Enactus</p>
                   <p style={{ marginTop: 5, marginBottom: 5, fontWeight: 500 }}>
-                    Marketing Head
+                    Vice President
                   </p>
                   <p style={{ marginTop: 5, marginBottom: 5 }}>
-                    Creating an API for reducing thefts in the Americana chain
-                    restaurants via analysis of POS machines and Cameras.
+                    Co-founded a ₹4,000 homegrown air purifier with 3-layer filtration (HEPA, carbon, UV), pitched at Enactus Nationals IIT Delhi, and secured ₹2L+ in grants as National Champions.
                   </p>
                 </div>
               </div>
@@ -198,14 +196,13 @@ export default function PortfolioBanner() {
                 ></div>
                 <div>
                   <p style={{ fontWeight: "bold", marginBottom: 10 }}>
-                    Sniffdog
+                    Nalum
                   </p>
                   <p style={{ marginTop: 5, marginBottom: 5, fontWeight: 500 }}>
-                    Project Lead
+                    Director
                   </p>
                   <p style={{ marginTop: 5, marginBottom: 5 }}>
-                    Led "Sniffdog" with Crowd Tangle, Tweet Deck, AI against
-                    misinformation.
+                    Analyzed 10K+ user journeys to improve alumni-student matchmaking on Nalum, digitized legacy records using AI, and scaled platform engagement through tailored outreach and feedback loops.
                   </p>
                 </div>
               </div>
