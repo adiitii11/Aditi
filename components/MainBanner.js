@@ -46,7 +46,7 @@ export default function MainBanner() {
         >
           Hi! I am Aditi
         </h1>
-        <h2 style={{ margin: 0, fontSize: 22, fontWeight: 400, marginTop: 20 }}>
+        <h2 style={{ margin: 0, fontSize: 22, fontWeight: 400, marginTop: 20, textAlign: "left" }}>
           Engineering Student
         </h2>
         <p style={{ marginTop: 20, textAlign: "left" }}>
